@@ -23,7 +23,7 @@ The Job Scraper is a Python package designed to scrape job postings from Indeed 
 
 ### 1. Download the Package
 
-Download the package from the repository. The package should be in `.tar.gz` or `.zip` format.
+Download the job_scraper-V2 package from the repository. The package should be in `.tar.gz` or `.zip` format.
 
 ### 2. Unzip the File
 
